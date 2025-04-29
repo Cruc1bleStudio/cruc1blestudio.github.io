@@ -53,3 +53,7 @@ p {
 .btn:hover {
     background: #9e79ff;
 }
+
+section{
+    margin-top: 3rem;
+}
