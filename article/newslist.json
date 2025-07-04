@@ -1,5 +1,11 @@
 [
     {
+        "title": "Supercharge Team Cooperation with Feishu",
+        "date": "2025-07-04",
+        "digest": "We have adopted Feishu as our primary collaboration platform.",
+        "url": "https://cruc1blestudio.github.io/article/002"
+    },
+    {
         "title": "庆祝 Cruc1ble 工作室成立",
         "date": "2025-05-05",
         "digest": "在数字世界的边缘，我们点燃了创新的火炬。Cruc1ble 工作室正式成立，致力于打造前所未有的IT时代体验。",
@@ -10,11 +16,5 @@
         "date": "2025-04-30",
         "digest": "We are excited to announce the release of news section of Crucible Portal!",
         "url": ""
-    },
-    {
-        "title": "Supercharge Team Cooperation with Feishu",
-        "date": "2025-07-04",
-        "digest": "We have adopted Feishu as our primary collaboration platform.",
-        "url": "https://cruc1blestudio.github.io/article/002"
     }
 ]
