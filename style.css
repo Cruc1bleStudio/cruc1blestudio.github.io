@@ -1,3 +1,33 @@
+/* Meta info styles for article header */
+.meta-info {
+    margin: 1rem auto 1.5rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.date {
+    font-size: 1rem;
+    color: #b8b8b8;
+    letter-spacing: 0.5px;
+}
+
+.labels {
+    gap: 1rem;
+}
+
+.label {
+    background: #7f5af065;
+    color: #fff;
+    font-size: 0.95rem;
+    padding: 0.2rem 0.8rem;
+    border-radius: 12px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    box-shadow: 0 1px 4px rgba(127,90,240,0.10);
+}
+
 * {
     margin: 0;
     padding: 0;
